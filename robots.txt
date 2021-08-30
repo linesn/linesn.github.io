@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://linesn.github.io/sitemap.xml
